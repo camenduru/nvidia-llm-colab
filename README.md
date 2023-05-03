@@ -7,6 +7,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-llm-colab/blob/main/nemo_2b_bf16_tp1.ipynb)
 
 ### Main Repo
 https://github.com/NVIDIA/apex <br />
