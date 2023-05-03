@@ -7,7 +7,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-llm-colab/blob/main/nemo_2b_bf16_tp1_server.ipynb) | nemo_2b_bf16_tp1_client server (GPU)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-llm-colab/blob/main/nemo_2b_bf16_tp1_server.ipynb) | nemo_2b_bf16_tp1_client server (Colab Pro GPU A100 😭)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-llm-colab/blob/main/nemo_2b_bf16_tp1_client.ipynb) | nemo_2b_bf16_tp1_client client (CPU)
 
 ### Main Repo
