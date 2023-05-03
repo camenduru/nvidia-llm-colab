@@ -10,6 +10,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-llm-colab/blob/main/nemo_2b_bf16_tp1_server.ipynb) | nemo_2b_bf16_tp1_server (Colab Pro GPU A100 😭)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/nvidia-llm-colab/blob/main/nemo_2b_bf16_tp1_client.ipynb) | nemo_2b_bf16_tp1_client (CPU)
 
+### Tutorial
+https://www.youtube.com/watch?v=wER54k32qXE
+
 ### Main Repo
 https://github.com/NVIDIA/apex <br />
 https://github.com/NVIDIA/NeMo <br />
